@@ -1,4 +1,4 @@
-<!-- // # ASSESSMENT 1: Tech Interview Practice Questions
+ # ASSESSMENT 1: Tech Interview Practice Questions
 
 // Answer the following questions.
 
