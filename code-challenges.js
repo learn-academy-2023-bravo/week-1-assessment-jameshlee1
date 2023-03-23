@@ -72,7 +72,6 @@ console.log(cohortBravo)
 
 // --------------------4) Create the code that will return the last index of the given value from the array using the test variables provided below.
 
-
 // Pseudo code: i created a variable and named it lastValue that takes 2 parameters array and number then i used the lastOfIndex method to return the value of number.
 
 const myNumbers = [13, 34, 42, 5, 5, 10, 27, 42, 10]

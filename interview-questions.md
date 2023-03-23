@@ -28,7 +28,7 @@ Researched answer: The logical AND (&&) (logical conjunction) operator for a set
 
 Your answer: index is the positioning of the character or number in a string. value is a number and start from 0 as to string start from 1.
 
-Researched answer: The indexOf() method returns the position of the first occurrence of a value in a string. The indexOf() metho
+Researched answer: The indexOf() method returns the position of the first occurrence of a value in a string. The indexOf() method
 
 4. Compare and contrast arrays and strings. Please include ways in which they are the same and ways in which they are different.
 
